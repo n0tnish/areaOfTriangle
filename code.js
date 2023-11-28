@@ -7,8 +7,3 @@ function calculateTriangleArea(base, height) {
     return area;
   }
   
-  // Example usage:
-  const base = 5;
-  const height = 8;
-  const triangleArea = calculateTriangleArea(base, height);
-  console.log("The area of the triangle is: " + triangleArea);
